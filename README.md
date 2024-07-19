@@ -16,7 +16,7 @@ As a Frontend Developer, I've worked on various projects, including developing n
 
 ## 😊 Self-taught and Lifelong Learner
 
-I started teaching myself web development in 2016 by building a website for my father's bookshop. I love learning new things every day as a developer, no matter how small. I'm committed to continually improving my web development skills and excited for future challenges.
+I started teaching myself web development in 2016 by building a website for my father's bookshop. I love learning new things every day as a developer, no matter how small. 
 
 ## 💬 Let's Connect!
 
