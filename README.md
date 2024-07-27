@@ -8,15 +8,10 @@ As a Frontend Developer, I've worked on various projects, including developing n
 
 ## 🛠️ Skills
 
-- Frontend Technologies: React.js, TypeScript, Redux, XState
-- UI/UX Design: SASS, CSS-in-JS solutions, and a bit of Tailwind.css for side projects
+- Frontend Technologies: React.js, TypeScript, CSS (CSS-in-JS, SASS, tailwind.css)
 - Testing: Jest, React Testing Library, Vitest, Cypress, MSW
 - Architecture: Micro Frontend, Module Federation
 - Accessibility: Following WCAG standards and writing semantic HTML
-
-## 😊 Self-taught and Lifelong Learner
-
-I started teaching myself web development in 2016 by building a website for my father's bookshop. I love learning new things every day as a developer, no matter how small. 
 
 ## 💬 Let's Connect!
 
