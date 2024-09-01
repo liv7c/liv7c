@@ -8,10 +8,10 @@ As a Frontend Developer, I've worked on various projects, including developing B
 
 ## 🛠️ Skills
 
-- Frontend Technologies: Javascript, HTML, React.js, TypeScript, CSS
-- Testing: Jest, React Testing Library, Vitest, Cypress, MSW for mocking APIs
-- Architecture: Micro Frontend, Module Federation
-- Accessibility: Following WCAG standards and writing semantic HTML
+- **Frontend Development**: Skilled in building interactive, user-friendly websites and web applications using JavaScript, TypeScript, React.js, HTML, and CSS.
+- **Testing and Quality**: Experienced in making sure code works well through writing unit, integration and end-to-end tests with tools like Jest, React Testing Library, Vitest, and Cypress, including simulating APIs with MSW.
+- **Accessibility**: Focused on making websites accessible to everyone by following WCAG standards and using proper HTML structure.
+- **Team Collaboration & Methodologies**: Experienced in working effectively within teams using Agile and Shape Up methodologies to deliver projects smoothly and on time.
 
 ## 💬 Let's Connect!
 
